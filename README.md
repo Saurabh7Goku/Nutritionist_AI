@@ -43,4 +43,4 @@ Contributions are welcome! Please follow our [contributing guidelines](CONTRIBUT
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
+This project is licensed under the [Apache-2.0 license](LICENSE). Feel free to use, modify, and distribute the code.
