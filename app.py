@@ -7,7 +7,7 @@ import gradio as gr
 llm = ChatGoogleGenerativeAI(model="gemini-pro",
                              verbose=True,
                              temperature=0.5,
-                             google_api_key="AIzaSyAk4cWKdw-CWiok1EcWxD443rrkVr4LAHI")
+                             google_api_key="Your_API_Key")
 
 duckduckgo_search = DuckDuckGoSearchRun()
 
